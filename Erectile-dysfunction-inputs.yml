@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/erectile-dysfunction-cannot---primary.py
+inputModule3:
+  class: File
+  path: python/erectile---primary.py
+inputModule4:
+  class: File
+  path: python/erectile-dysfunction-impotence---primary.py
+inputModule5:
+  class: File
+  path: python/erectile-dysfunction-penile---primary.py
+inputModule6:
+  class: File
+  path: python/erectile-dysfunction---primary.py
+inputModule7:
+  class: File
+  path: python/erectile-dysfunction-procedure---primary.py
+inputModule8:
+  class: File
+  path: python/erectile-dysfunction---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
